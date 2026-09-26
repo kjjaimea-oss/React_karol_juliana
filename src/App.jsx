@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
+import heroImg from './assets/foto.png'
+import reactLogo from './assets/foto.png'
+import viteLogo from './assets/foto.png'
 import './App.css'
 
 function App() {
@@ -11,9 +11,10 @@ function App() {
     <>
       <section id="center">
         <div>
-          <h1>hola mundo</h1>
+          <img src={heroImg} alt='karol' style={{width: '150px'}}/>
+          <h1>mi presentacion</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+            "Estudiante de ingenieria de sistemas y me encanta la programacion"
           </p>
         </div>
         <button
