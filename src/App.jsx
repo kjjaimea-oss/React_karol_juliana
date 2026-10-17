@@ -1,8 +1,15 @@
-import Playground from "./playground/Playground";
+import HolaMundo from "./componentsClase/HolaMundo";
+import Saludo from "./componentsClase/Saludo";
+import Despedida from "./componentsClase/Despedida";
 
-// App solo muestra el componente Playground
 function App() {
-  return <Playground />;
+  return (
+    <div>
+      <HolaMundo/>
+      <Saludo/>
+      <Despedida/>
+    </div>
+  )
 }
 
 export default App;
