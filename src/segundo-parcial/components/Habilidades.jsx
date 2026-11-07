@@ -17,7 +17,7 @@ function Habilidades() {
   return (
     <section id="habilidades" className="py-5">
       <div className="container">
-        <h2 className="text-center fw-bold mb-5">
+        <h2 className="text-center fw-bold mb-5 text-black">
           <i className="bi bi-lightning-charge-fill text-warning me-2"></i>
           Habilidades
         </h2>

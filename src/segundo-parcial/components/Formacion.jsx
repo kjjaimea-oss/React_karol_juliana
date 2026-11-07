@@ -37,7 +37,7 @@ function Formacion() {
   return (
     <section id="formacion" className="py-5 bg-light">
       <div className="container">
-        <h2 className="text-center fw-bold mb-5">
+        <h2 className="text-center fw-bold mb-5 text-black">
           <i className="bi bi-mortarboard-fill text-success me-2"></i>
           Formación académica
         </h2>
