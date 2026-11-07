@@ -5,7 +5,7 @@ function Perfil() {
         <div className="row align-items-center g-4">
             <div className="col-12 col-md-4 text-center">
             <img
-                src="https://i.pravatar.cc/300?img=47"
+                src="https://cdn.jsdelivr.net/gh/kjjaimea-oss/React_karol_juliana/src/assets/foto.png"
                 alt="Fotografía de perfil"
                 className="img-fluid rounded-circle border border-4 border-primary shadow"
                 style={{ maxWidth: '250px' }}
@@ -13,7 +13,7 @@ function Perfil() {
             </div>
 
             <div className="col-12 col-md-8 text-center text-md-start">
-            <h1 className="display-5 fw-bold">Tu Nombre Completo</h1>
+            <h1 className="display-5 fw-bold">Karol Juliana Jaime Arenas</h1>
             <h2 className="h4 text-primary">Estudiante de Ingeniería de Sistemas</h2>
             <span className="badge text-bg-success">Desarrollador Frontend Junior</span>
 
@@ -36,7 +36,7 @@ function Perfil() {
 
             <a href="mailto:kjjaimea@ufpso.edu.co" className="btn btn-primary me-2">
                 <i className="bi bi-send-fill me-2"></i>
-                Contáctame: 3204285879
+                Contáctame
             </a>
             <a href="#sobre-mi" className="btn btn-outline-success">
                 Conóceme más
