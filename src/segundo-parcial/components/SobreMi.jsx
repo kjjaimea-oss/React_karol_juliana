@@ -2,7 +2,7 @@ function SobreMi() {
   return (
     <section id="sobre-mi" className="py-5">
       <div className="container">
-        <h2 className="text-center fw-bold mb-5">
+        <h2 className="text-center fw-bold mb-5 text-black">
           <i className="bi bi-person-lines-fill text-primary me-2"></i>
           Sobre mí
         </h2>

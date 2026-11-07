@@ -13,7 +13,7 @@ function Perfil() {
             </div>
 
             <div className="col-12 col-md-8 text-center text-md-start">
-            <h1 className="display-5 fw-bold">Karol Juliana Jaime Arenas</h1>
+            <h1 className="display-5 fw-bold text-black">Karol Juliana Jaime Arenas</h1>
             <h2 className="h4 text-primary">Estudiante de Ingeniería de Sistemas</h2>
             <span className="badge text-bg-success">Desarrollador Frontend Junior</span>
 
